@@ -1064,8 +1064,8 @@ p {
 
 ._3d-component {
   width: 50%;
-  height: 50vh;
-  margin-top: 5%;
+  height: 47vh;
+  margin-top: 7%;
   margin-right: auto;
   margin-left: auto;
   background-color: transparent;
@@ -1569,7 +1569,6 @@ p {
   display: -ms-flexbox;
   display: flex;
   height: 100vh;
-  padding-bottom: 40px;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
   -webkit-flex-direction: row;
@@ -2040,6 +2039,9 @@ p {
 }
 
 @media screen and (min-width: 1440px) {
+  ._3d-component {
+    height: 50vh;
+  }
   .artowork-preview {
     width: 260px;
   }
@@ -2092,6 +2094,9 @@ p {
 }
 
 @media screen and (min-width: 1920px) {
+  ._3d-component {
+    height: 53vh;
+  }
   .artwork-wrapper {
     width: 90%;
   }
@@ -2807,7 +2812,7 @@ p {
     left: auto;
     top: auto;
     right: auto;
-    bottom: 7%;
+    bottom: 5%;
   }
   .heading-6 {
     width: 80%;
