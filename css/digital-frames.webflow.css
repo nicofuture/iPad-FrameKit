@@ -2085,6 +2085,10 @@ p {
   .artwork-pop-up {
     max-width: 1450px;
   }
+  .intro-text-wraooer {
+    height: 40%;
+    margin-top: 30%;
+  }
 }
 
 @media screen and (min-width: 1920px) {
@@ -2141,7 +2145,7 @@ p {
     line-height: 50px;
   }
   .intro-text-wraooer {
-    height: 50%;
+    height: 30%;
     margin-top: 40%;
   }
 }
@@ -2803,7 +2807,7 @@ p {
     left: auto;
     top: auto;
     right: auto;
-    bottom: 10%;
+    bottom: 7%;
   }
   .heading-6 {
     width: 80%;
